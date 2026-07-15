@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sgeuht.extenhub.app/sitemap.xml
